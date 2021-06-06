@@ -35,8 +35,8 @@ Mobile Version 👇
 
 ### Links
 
-- Solution URL: [Soon](https://your-solution-url.com) 🔜
-- Live Site URL: [Soon](https://your-live-site-url.com) 🔜
+- Solution URL: [Here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-r4RYwR9ww)
+- Live Site URL: [Here](https://stats-preview-card-component-main-lac.vercel.app/)
 
 ## My process
 
