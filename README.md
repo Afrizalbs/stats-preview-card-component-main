@@ -7,13 +7,9 @@ Fitur:
 
 ### Screenshot
 
-|                  Desktop                  |
-| :---------------------------------------: |
-| ![Desktop Version](./desktop-version.png) |
-
-|                 Mobile                  |
-| :-------------------------------------: |
-| ![Mobile Version](./mobile-version.png) |
+|                  Desktop                  |                 Mobile                  |
+| :---------------------------------------: | :-------------------------------------: |
+| ![Desktop Version](./desktop-version.png) | ![Mobile Version](./mobile-version.png) |
 
 ### Links
 
